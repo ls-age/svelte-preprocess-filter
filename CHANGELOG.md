@@ -1,3 +1,20 @@
+<a name="1.0.0"></a>
+# 1.0.0 (2017-12-31)
+
+
+### Features
+
+* Accept options to customize filtering ([1c5a047](https://github.com/ls-age/svelte-preprocess-filter/commits/1c5a047))
+
+
+### BREAKING CHANGES
+
+* New signature of `style` function:
+`style({ name, all, type, lang }, { attributes })`
+
+
+
+
 <a name="0.1.1"></a>
 ## 0.1.1 (2017-12-31)
 
