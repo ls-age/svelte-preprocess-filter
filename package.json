@@ -1,6 +1,6 @@
 {
   "name": "svelte-preprocess-filter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Filter utility for svelte preprocessors",
   "main": "out/index.js",
   "module": "out/module.js",
