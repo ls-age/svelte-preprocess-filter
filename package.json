@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Filter utility for svelte preprocessors",
   "main": "out/index.js",
+  "module": "out/module.js",
   "scripts": {
     "compile": "rollup -c",
     "lint": "eslint rollup.config.js src",
