@@ -39,7 +39,7 @@ jobs:
           when: always
       - run:
           name: Report test coverage
-          command: npx nyc report --reporter=text-lcov | npx coveralls
+          command: npx nyc report --reporter=text-lcov | npx codecov
           when: always
 
       # Store Results
